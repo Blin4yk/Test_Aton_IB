@@ -1,0 +1,69 @@
+2026-03-02 22:15:52,905 - logger - INFO - Импорт данных в PostgreSQL...
+2026-03-02 22:15:52,984 - logger - INFO - Записано 13 строк в бд.
+2026-03-02 22:15:52,985 - logger - INFO - Импорт завершен.
+2026-03-02 22:16:08,454 - logger - INFO - Импорт данных в PostgreSQL...
+2026-03-02 22:16:08,498 - logger - INFO - Записано 13 строк в бд.
+2026-03-02 22:16:08,498 - logger - INFO - Импорт завершен.
+2026-03-02 22:25:46,084 - logger - INFO - Импорт данных в PostgreSQL...
+2026-03-02 22:25:46,157 - logger - INFO - Записано 13 строк в бд.
+2026-03-02 22:25:46,158 - logger - INFO - Импорт завершен.
+2026-03-02 22:26:06,451 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:26:44,138 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:26:44,220 - logger - INFO - Генерация завершена.
+2026-03-02 22:26:44,221 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:29:13,978 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:29:14,051 - logger - INFO - Генерация завершена.
+2026-03-02 22:29:14,051 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:30:51,059 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:30:51,136 - logger - INFO - Генерация завершена.
+2026-03-02 22:30:51,137 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:31:03,488 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:31:03,562 - logger - INFO - Генерация завершена.
+2026-03-02 22:31:03,563 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:31:39,469 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:31:39,675 - logger - INFO - Генерация завершена.
+2026-03-02 22:31:39,675 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:33:04,338 - logger - INFO - генерация тестовых файлов...
+2026-03-02 22:33:04,493 - logger - INFO - Генерация завершена.
+2026-03-02 22:33:04,493 - logger - INFO - Тестовые файлы сгенерированы в ./test_files
+2026-03-02 22:33:11,473 - logger - INFO - Старт обходчика...
+2026-03-02 22:33:11,475 - logger - INFO - Процесс арзивации: ./test_files\archive.zip
+2026-03-02 22:33:11,477 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test1.doc
+2026-03-02 22:33:11,481 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test2.docx
+2026-03-02 22:33:11,494 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test3.xls
+2026-03-02 22:33:11,497 - logger - INFO - Процесс арзивации: ./test_files\nested.zip
+2026-03-02 22:33:11,498 - logger - INFO - Процесс арзивации: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\archive.zip
+2026-03-02 22:33:11,499 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test1.doc
+2026-03-02 22:33:11,502 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test2.docx
+2026-03-02 22:33:11,515 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_emecpwc7\test3.xls
+2026-03-02 22:33:11,516 - logger - INFO - Парсинг документа: ./test_files\test1.doc
+2026-03-02 22:33:11,519 - logger - INFO - Парсинг документа: ./test_files\test2.docx
+2026-03-02 22:33:11,536 - logger - INFO - Парсинг документа: ./test_files\test3.xls
+2026-03-02 22:33:11,537 - logger - INFO - Парсинг документа: ./test_files\test4.xlsx
+2026-03-02 22:33:11,542 - logger - INFO - Парсинг документа: ./test_files\test5.pdf
+2026-03-02 22:33:11,561 - logger - INFO - Парсинг документа: ./test_files\subdir\sub_test.doc
+2026-03-02 22:33:11,564 - logger - INFO - Парсинг документа: ./test_files\subdir\sub_test.pdf
+2026-03-02 22:34:43,294 - logger - INFO - Старт обходчика...
+2026-03-02 22:34:43,296 - logger - INFO - Процесс арзивации: ./test_files\archive.zip
+2026-03-02 22:34:43,298 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test1.doc
+2026-03-02 22:34:43,302 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test2.docx
+2026-03-02 22:34:43,314 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test3.xls
+2026-03-02 22:34:43,316 - logger - INFO - Процесс арзивации: ./test_files\nested.zip
+2026-03-02 22:34:43,318 - logger - INFO - Процесс арзивации: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\archive.zip
+2026-03-02 22:34:43,319 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test1.doc
+2026-03-02 22:34:43,322 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test2.docx
+2026-03-02 22:34:43,334 - logger - INFO - Парсинг документа: C:\Users\nshel\AppData\Local\Temp\crawler_oonnk2bz\test3.xls
+2026-03-02 22:34:43,335 - logger - INFO - Парсинг документа: ./test_files\test1.doc
+2026-03-02 22:34:43,338 - logger - INFO - Парсинг документа: ./test_files\test2.docx
+2026-03-02 22:34:43,354 - logger - INFO - Парсинг документа: ./test_files\test3.xls
+2026-03-02 22:34:43,355 - logger - INFO - Парсинг документа: ./test_files\test4.xlsx
+2026-03-02 22:34:43,360 - logger - INFO - Парсинг документа: ./test_files\test5.pdf
+2026-03-02 22:34:43,379 - logger - INFO - Парсинг документа: ./test_files\subdir\sub_test.doc
+2026-03-02 22:34:43,383 - logger - INFO - Парсинг документа: ./test_files\subdir\sub_test.pdf
+2026-03-02 22:34:43,401 - logger - INFO - Обход выполнен. Результаты в  ./output/result.csv
+2026-03-02 22:57:45,402 - logger - INFO - Импорт данных в PostgreSQL...
+2026-03-02 22:57:45,486 - logger - INFO - Записано 13 строк в бд.
+2026-03-02 22:57:45,486 - logger - INFO - Импорт завершен.
+2026-03-02 22:58:59,451 - logger - INFO - Импорт данных в PostgreSQL...
+2026-03-02 22:58:59,510 - logger - INFO - Записано 13 строк в бд.
+2026-03-02 22:58:59,510 - logger - INFO - Импорт завершен.
